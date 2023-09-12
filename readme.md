@@ -7,3 +7,5 @@ SID: 20864880 \
 You can try the power and factorial function in myLibrary. \
 Feel free to add more function to my calculator. \
 Thank you.
+
+![](/Users/him/Desktop/螢幕截圖 2023-09-12 17.25.28.png) 
